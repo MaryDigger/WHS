@@ -1,2 +1,2 @@
-# WHS-html
-html tasks
+# WHS
+WHS tasks
